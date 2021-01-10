@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  ExploringCollectionView
-//
-//  Created by Office-iMac on 2021-01-10.
-//
-
 import UIKit
 
 @main
